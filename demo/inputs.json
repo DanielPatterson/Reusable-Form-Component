@@ -1,0 +1,29 @@
+[
+  {
+    "label": "First name",
+	"type": "text",
+	"name": "fname",
+	"placeholder": "your first name"
+  },
+  
+  {
+    "label": "Last name",
+	"type": "text",
+	"name": "lname",
+	"placeholder": "your last name"
+  },
+  
+  {
+    "label": "email",
+	"type": "email",
+	"name": "email",
+	"placeholder": "your email address"
+  },
+  
+  {
+    "label": "phone",
+	"type": "text",
+	"name": "phone",
+	"placeholder": "your phone number"
+  }
+]
